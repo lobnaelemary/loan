@@ -1,0 +1,38 @@
+body {
+    border: 250px;
+    margin: auto;
+    background-color:rgb(203, 214, 214);
+    font-size:xx-large;
+    display: flex;
+    flex: content;
+}
+
+#result{
+    color:red;
+    font-size: xx-large;
+    border: 200px;
+
+}
+
+#checkedlabel{
+    color:rgb(9, 9, 176);
+    font-size: xx-large;
+    
+}
+
+#age{
+    font-size:large;
+}
+
+#salary{
+        font-size:large;
+}
+#check{
+        font-size:large;
+        color:red;
+}
+
+#loan{
+    border: 250px;
+    margin:auto;
+}
